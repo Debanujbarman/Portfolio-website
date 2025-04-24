@@ -245,7 +245,7 @@ nav ul li a::after{
    transition: transform 0.5s;
 }
 .layer{
-    width: 40%;
+    width: 38%;
     height: 0;
     background: linear-gradient(rgb(0,0,0,0.6),#ff004f);
     border-radius: 10px;
