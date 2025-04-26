@@ -239,7 +239,7 @@ nav ul li a::after{
     overflow: hidden;
 }
 .work img{
-    width: 78%;
+    width: 80%;
    border-radius: 10px;
    display: block;
    transition: transform 0.5s;
